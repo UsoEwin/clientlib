@@ -2,7 +2,6 @@
 
 #All urls used in those function are on the virtual machine (dev)
 
-#Still need a multipart upload function.
 
 #1.WriteMemoryCallback
 This function will be used to write the buffer with information, it was used in the getusercollection function.
